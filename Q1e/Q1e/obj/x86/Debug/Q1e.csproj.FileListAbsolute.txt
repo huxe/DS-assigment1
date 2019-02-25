@@ -1,0 +1,4 @@
+E:\c#\DS\Assigment 1\Q1e\Q1e\bin\Debug\Q1e.exe
+E:\c#\DS\Assigment 1\Q1e\Q1e\bin\Debug\Q1e.pdb
+E:\c#\DS\Assigment 1\Q1e\Q1e\obj\x86\Debug\Q1e.exe
+E:\c#\DS\Assigment 1\Q1e\Q1e\obj\x86\Debug\Q1e.pdb
