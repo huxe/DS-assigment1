@@ -9,11 +9,20 @@ namespace Q1e
     {
         static void Main(string[] args)
         {
-            int[] arr = { 1,2,3,4,5,6,7,8,9,10,54};
+            Console.WriteLine("Enter length of array");
+            int LA = int.Parse(Console.ReadLine());
+            int[] arr = new int[LA];
+            Console.WriteLine("Enter Elements");
+            for (int i = 0; i < LA; i++)
+            {
+                arr[i] = int.Parse(Console.ReadLine());
+            }
+
+            Console.WriteLine("Enter search key");
+            int Skey =int.Parse(Console.ReadLine());
             int Start = 0;
-            int End = 11;
+            int End = LA;
             int Mid = (Start + End) / 2;
-            int Skey = 54;
             BinarySearch(Start,End,Mid,Skey,arr);
         }
 

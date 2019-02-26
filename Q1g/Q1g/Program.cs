@@ -9,10 +9,15 @@ namespace Q1g
     {
         static void Main(string[] args)
         {
-            int[] arr={1,5,4,9,8};
-            int la = 5;
-            
-            foreach (var item in SelectionSort(arr,la))
+            Console.WriteLine("Enter length of array");
+            int LA = int.Parse(Console.ReadLine());
+            int[] arr = new int[LA];
+            Console.WriteLine("Enter Elements");
+            for (int i = 0; i < LA; i++)
+            {
+                arr[i] = int.Parse(Console.ReadLine());
+            }            
+            foreach (var item in SelectionSort(arr,LA))
             {
                 Console.Write(item+" ");
             }

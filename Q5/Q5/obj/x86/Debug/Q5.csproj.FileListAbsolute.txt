@@ -2,3 +2,5 @@ E:\c#\DS\Assigment 1\Q5\Q5\bin\Debug\Q5.exe
 E:\c#\DS\Assigment 1\Q5\Q5\bin\Debug\Q5.pdb
 E:\c#\DS\Assigment 1\Q5\Q5\obj\x86\Debug\Q5.exe
 E:\c#\DS\Assigment 1\Q5\Q5\obj\x86\Debug\Q5.pdb
+E:\c#\DS\Assigment 1\DS-assigment1\Q5\Q5\obj\x86\Debug\Q5.exe
+E:\c#\DS\Assigment 1\DS-assigment1\Q5\Q5\obj\x86\Debug\Q5.pdb

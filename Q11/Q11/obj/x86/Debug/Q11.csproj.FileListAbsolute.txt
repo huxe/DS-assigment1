@@ -1,0 +1,6 @@
+C:\Users\shaikh Huzaifa\Documents\Visual Studio 2010\Projects\Q11\Q11\bin\Debug\Q11.exe
+C:\Users\shaikh Huzaifa\Documents\Visual Studio 2010\Projects\Q11\Q11\bin\Debug\Q11.pdb
+C:\Users\shaikh Huzaifa\Documents\Visual Studio 2010\Projects\Q11\Q11\obj\x86\Debug\Q11.exe
+C:\Users\shaikh Huzaifa\Documents\Visual Studio 2010\Projects\Q11\Q11\obj\x86\Debug\Q11.pdb
+E:\c#\DS\Assigment 1\DS-assigment1\Q11\Q11\obj\x86\Debug\Q11.exe
+E:\c#\DS\Assigment 1\DS-assigment1\Q11\Q11\obj\x86\Debug\Q11.pdb

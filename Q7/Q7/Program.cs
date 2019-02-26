@@ -9,10 +9,18 @@ namespace Q7
     {
         static void Main(string[] args)
         {
-            int[] arr ={ 2, 5, 1, 0, 4, 7, 9, 3, -2, 10, 20, 15};
-            int[] temp=new int[12];
-            int la = 12;
-            for (int i = 0,k=11, j=0; i < la; i++)
+            Console.WriteLine("Enter length of array");
+            int la = int.Parse(Console.ReadLine());
+            int[] arr = new int[la];
+            Console.WriteLine("Enter Elements");
+            for (int i = 0; i < la; i++)
+            {
+                arr[i] = int.Parse(Console.ReadLine());
+            }
+            Console.WriteLine("\n***********************\n");
+            int[] temp=new int[la];
+            
+            for (int i = 0,k=la-1, j=0; i < la; i++)
             {
                 if (arr[i]%2==0)
                 {

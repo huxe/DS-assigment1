@@ -1,0 +1,8 @@
+c:\users\shaikh huzaifa\documents\visual studio 2010\Projects\Q8\Q8\bin\Debug\Q8.exe
+c:\users\shaikh huzaifa\documents\visual studio 2010\Projects\Q8\Q8\bin\Debug\Q8.pdb
+c:\users\shaikh huzaifa\documents\visual studio 2010\Projects\Q8\Q8\obj\x86\Debug\Q8.exe
+c:\users\shaikh huzaifa\documents\visual studio 2010\Projects\Q8\Q8\obj\x86\Debug\Q8.pdb
+E:\c#\DS\Assigment 1\DS-assigment1\Q8\Q8\obj\x86\Debug\Q8.exe
+E:\c#\DS\Assigment 1\DS-assigment1\Q8\Q8\obj\x86\Debug\Q8.pdb
+E:\c#\DS\Assigment 1\DS-assigment1\Q8\Q8\bin\Debug\Q8.exe
+E:\c#\DS\Assigment 1\DS-assigment1\Q8\Q8\bin\Debug\Q8.pdb

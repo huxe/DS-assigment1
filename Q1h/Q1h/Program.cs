@@ -9,9 +9,16 @@ namespace Q1h
     {
         static void Main(string[] args)
         {
-            int[] arr = { 1, 9, 3, 4, 8, 12, 6 };
-            int la = 7;
-            foreach (var item in SelectionSort(arr,la))
+            Console.WriteLine("Enter length of array");
+            int LA = int.Parse(Console.ReadLine());
+            int[] arr = new int[LA];
+            Console.WriteLine("Enter Elements");
+            for (int i = 0; i < LA; i++)
+            {
+                arr[i] = int.Parse(Console.ReadLine());
+            }
+
+            foreach (var item in SelectionSort(arr,LA))
             {
                 Console.Write(item+" ");
             }

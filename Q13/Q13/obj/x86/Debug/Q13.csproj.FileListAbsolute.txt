@@ -1,0 +1,10 @@
+C:\Users\shaikh Huzaifa\documents\visual studio 2010\Projects\Q13\Q13\bin\Debug\Q13.exe
+C:\Users\shaikh Huzaifa\documents\visual studio 2010\Projects\Q13\Q13\bin\Debug\Q13.pdb
+C:\Users\shaikh Huzaifa\documents\visual studio 2010\Projects\Q13\Q13\obj\x86\Debug\Q13.csprojResolveAssemblyReference.cache
+C:\Users\shaikh Huzaifa\documents\visual studio 2010\Projects\Q13\Q13\obj\x86\Debug\Q13.exe
+C:\Users\shaikh Huzaifa\documents\visual studio 2010\Projects\Q13\Q13\obj\x86\Debug\Q13.pdb
+E:\c#\DS\Assigment 1\DS-assigment1\Q13\Q13\obj\x86\Debug\Q13.exe
+E:\c#\DS\Assigment 1\DS-assigment1\Q13\Q13\obj\x86\Debug\Q13.pdb
+E:\c#\DS\Assigment 1\DS-assigment1\Q13\Q13\bin\Debug\Q13.exe
+E:\c#\DS\Assigment 1\DS-assigment1\Q13\Q13\bin\Debug\Q13.pdb
+E:\c#\DS\Assigment 1\DS-assigment1\Q13\Q13\obj\x86\Debug\Q13.csprojResolveAssemblyReference.cache

@@ -9,8 +9,14 @@ namespace Q1f
     {
         static void Main(string[] args)
         {
-            int[] arr = { 1,5,14,98,7,2};
-            int la = 6;
+            Console.WriteLine("Enter length of array");
+            int la = int.Parse(Console.ReadLine());
+            int[] arr = new int[la];
+            Console.WriteLine("Enter Elements");
+            for (int i = 0; i < la; i++)
+            {
+                arr[i] = int.Parse(Console.ReadLine());
+            }
             
             foreach (var item in BubbleSort(la,arr))
             {

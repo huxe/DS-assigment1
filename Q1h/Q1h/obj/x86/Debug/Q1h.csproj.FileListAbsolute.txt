@@ -3,3 +3,5 @@ E:\c#\DS\Assigment 1\Q1h\Q1h\bin\Debug\Q1h.pdb
 E:\c#\DS\Assigment 1\Q1h\Q1h\obj\x86\Debug\Q1h.exe
 E:\c#\DS\Assigment 1\Q1h\Q1h\obj\x86\Debug\Q1h.pdb
 E:\c#\DS\Assigment 1\Q1h\Q1h\obj\x86\Debug\Q1h.csprojResolveAssemblyReference.cache
+E:\c#\DS\Assigment 1\DS-assigment1\Q1h\Q1h\obj\x86\Debug\Q1h.exe
+E:\c#\DS\Assigment 1\DS-assigment1\Q1h\Q1h\obj\x86\Debug\Q1h.pdb

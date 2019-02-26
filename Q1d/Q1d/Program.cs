@@ -9,8 +9,21 @@ namespace Q1d
     {
         static void Main(string[] args)
         {
-            int[] arr = { 1,2,3,5,6};
-            Console.WriteLine(LinearSearch(arr,5,3));
+            
+
+            Console.WriteLine("Enter length of array");
+            int LA = int.Parse(Console.ReadLine());
+            int[] arr = new int[LA];
+            Console.WriteLine("Enter Elements");
+            for (int i = 0; i < LA; i++)
+            {
+                arr[i] = int.Parse(Console.ReadLine());
+            }
+            Console.WriteLine("Enter SearchKey");
+            int sKey = int.Parse(Console.ReadLine());
+
+            Console.WriteLine(LinearSearch(arr, LA, sKey));
+
 
         }
         static string LinearSearch(int[] ARR,int N,int ITEM)
@@ -20,8 +33,7 @@ namespace Q1d
                 if (ARR[i]==ITEM)
                 {
                     return"Success Full";
-                }
-                
+                }   
             }
             return "Success Full";
         }

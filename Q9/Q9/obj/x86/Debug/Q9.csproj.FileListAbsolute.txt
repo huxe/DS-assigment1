@@ -1,0 +1,4 @@
+c:\users\shaikh huzaifa\documents\visual studio 2010\Projects\Q9\Q9\bin\Debug\Q9.exe
+c:\users\shaikh huzaifa\documents\visual studio 2010\Projects\Q9\Q9\bin\Debug\Q9.pdb
+c:\users\shaikh huzaifa\documents\visual studio 2010\Projects\Q9\Q9\obj\x86\Debug\Q9.exe
+c:\users\shaikh huzaifa\documents\visual studio 2010\Projects\Q9\Q9\obj\x86\Debug\Q9.pdb

@@ -1,0 +1,8 @@
+c:\users\shaikh huzaifa\documents\visual studio 2010\Projects\Q12\Q12\bin\Debug\Q12.exe
+c:\users\shaikh huzaifa\documents\visual studio 2010\Projects\Q12\Q12\bin\Debug\Q12.pdb
+c:\users\shaikh huzaifa\documents\visual studio 2010\Projects\Q12\Q12\obj\x86\Debug\Q12.exe
+c:\users\shaikh huzaifa\documents\visual studio 2010\Projects\Q12\Q12\obj\x86\Debug\Q12.pdb
+E:\c#\DS\Assigment 1\DS-assigment1\Q12\Q12\obj\x86\Debug\Q12.exe
+E:\c#\DS\Assigment 1\DS-assigment1\Q12\Q12\obj\x86\Debug\Q12.pdb
+E:\c#\DS\Assigment 1\DS-assigment1\Q12\Q12\bin\Debug\Q12.exe
+E:\c#\DS\Assigment 1\DS-assigment1\Q12\Q12\bin\Debug\Q12.pdb

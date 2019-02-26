@@ -2,3 +2,8 @@ E:\c#\DS\Assigment 1\Q1c\Q1c\bin\Debug\Q1c.exe
 E:\c#\DS\Assigment 1\Q1c\Q1c\bin\Debug\Q1c.pdb
 E:\c#\DS\Assigment 1\Q1c\Q1c\obj\x86\Debug\Q1c.exe
 E:\c#\DS\Assigment 1\Q1c\Q1c\obj\x86\Debug\Q1c.pdb
+E:\c#\DS\Assigment 1\DS-assigment1\Q1c\Q1c\obj\x86\Debug\Q1c.exe
+E:\c#\DS\Assigment 1\DS-assigment1\Q1c\Q1c\obj\x86\Debug\Q1c.pdb
+E:\c#\DS\Assigment 1\DS-assigment1\Q1c\Q1c\bin\Debug\Q1c.exe
+E:\c#\DS\Assigment 1\DS-assigment1\Q1c\Q1c\bin\Debug\Q1c.pdb
+E:\c#\DS\Assigment 1\DS-assigment1\Q1c\Q1c\obj\x86\Debug\Q1c.csprojResolveAssemblyReference.cache
